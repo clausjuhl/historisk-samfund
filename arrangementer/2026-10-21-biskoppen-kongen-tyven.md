@@ -9,5 +9,3 @@ Med udgangspunkt i de bevarede regnskaber, inventarbeskrivelser, retsprotokoller
 Her skal vi blandt andet møde den katolske biskop Ove Bille, den jagtglade kong Frederik 2., 21 vildsvin og tyven Christen, hvis grumme skæbne kaster nyt lys over livet på landet i 1600-tallets Midtjylland. 
 
 Vi skal også på besøg i slottets kongelige gemakker og høre om dengang Danmarks kommende konge svævede mellem liv og død i en jagthytte langt ude i skoven.
-
-Foredragsholder: Jakob Ørnbjerg, historiker, ph.d. Museum Silkeborg.
