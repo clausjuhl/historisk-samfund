@@ -1,3 +1,7 @@
+---
+layout: arrangement
+---
+
 Tusind års Vestergade
 
 Det er gaden, hvor vikingerne satte deres runesten op og byggede deres første kirker, og det er gaden, hvor købmænd handlede sig stjernerige og byggede deres store gårde. Gaden med de mange køer og svin og høns og ænder. Gaden, hvor man gik i lort til op over anklerne, hvor de første industrifyrster slog sig ned, hvor de flyttede væk igen og efterlod alting i forfald, og hvor nye flyttede til og gjorde det hele fint og muntert.
