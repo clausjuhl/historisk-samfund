@@ -2,7 +2,7 @@
 layout: arrangement
 ---
 
-Efter afholdelsen af vores sædvanligvis korte generalforsamling vil Lykke Olsen, museumsinspektør ved Nordjyske Museer, under overskriften "Et liv i cirkus” fortælle om, at det indtil for få årtier siden var det en stor begivenhed, når et cirkus kom til byen. Sådan er det ikke længere. Mange mener endda, at cirkus er ved at dø. Er det rigtig, eller er det blot ved at skifte form? Og hvordan var det egentlig at være en del af en cirkusfamilie?
+Efter afholdelsen af vores sædvanligvis korte generalforsamling vil Lykke Olsen, museumsinspektør ved Nordjyske Museer, under overskriften "Et liv i cirkus” fortælle om, at det indtil for få årtier siden var en stor begivenhed, når et cirkus kom til byen. Sådan er det ikke længere. Mange mener endda, at cirkus er ved at dø. Er det rigtig, eller er det blot ved at skifte form? Og hvordan var det egentlig at være en del af en cirkusfamilie?
 
 De og mange andre spørgsmål satte Nordjyske Museer sig for at undersøge. Lykke Olsen interviewede i 2024 en række danske nuværende og tidligere cirkusdirektører og artister om deres liv i cirkus og om branchen i al almindelighed.
 
