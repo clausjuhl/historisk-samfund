@@ -26,7 +26,13 @@
   title: Tusind års Vestergade
   text: Tirsdag den 24. marts 2026
 
-- page_url: /arrangementer/2026-10-21-biskoppen-kongen-tyven
+- page_url: /arrangementer/2026-04-21-adelsmand
+  image_url: /assets/adelsmand_slider.jpg
+  image_alt: Excentriske danske adelsmænd
+  title: Excentriske danske adelsmænd
+  text: Tirsdag den 21. april 2026
+ 
+ - page_url: /arrangementer/2026-10-21-biskoppen-kongen-tyven
   image_url: /assets/Biskoppen_kongen_slider.jpg
   image_alt: Biskoppen kongen og tyven. Paa besoeg paa Silkeborg Slot
   title: Biskoppen, kongen og tyven - på besøg på Silkeborg Slot
