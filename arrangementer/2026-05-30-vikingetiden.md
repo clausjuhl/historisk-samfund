@@ -5,7 +5,7 @@ image: /assets/Vikingebyen_arrangementsside.jpg
 host: Ved Mogens Frost Tvorup Larsen, cand.mag. i historie
 location: Indgangen til Vor Frue Kirke, Frue Kirkeplads 3, Århus
 time: Kl. 13.00
-price: Gratis for medlemmer. 
+price: Gratis for medlemmer 
 ---
 Århus, Smilets By, er på mange måder så ungdommelig og moderne, at man nemt overser, at der få meter under vores fødder findes rester af en af Nordens ældste byer. Aros, byen ved åens munding, voksede i vikingetiden fra et lille fiskerleje til et centrum for handel, religion og militær magt, og denne udvikling anes i byens gader den dag i dag. Det kan være svært at se i de snørklede gader blandt både moderne tårne af glas, stål og beton og gamle huse, der har stået længere end nogen kan huske. Men hvis man ved, hvad man skal lede efter, så ser vi vikingernes aftryk i hele det gamle Århus.
 
