@@ -1,7 +1,7 @@
----
+
 layout: arrangement
-title: Vikingetidens Århus
-image: /assets/Vikingetiden_arrangementsside.jpg
+title: Vikingernes Århus
+image: /assets/Vikingebyen_arrangementsside.jpg
 host: Ved Mogens Frost Tvorup Larsen, cand.mag. i historie
 location: Indgangen til Vor Frue Kirke, Frue Kirkeplads 3, Århus
 time: Kl. 13.00
