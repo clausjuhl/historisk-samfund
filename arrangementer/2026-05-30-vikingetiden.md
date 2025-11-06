@@ -10,4 +10,5 @@ Gåturen tager 1½-2 timer, alt efter gruppens gangtempo og spørgsmål undervej
 
 Mogens Frost Tvorup Larsen, cand.mag. i historie, fortæller. Mogens har bl.a. arbejdet med formidling på Moesgaard Museum, og har som forskningsassistent for professor i arkæologi Søren Sindbæk arbejdet dybdegående med bl.a. vikingeborgen Trelleborg samt kortlægning af tidlige middelalderbyer.
 
-Husk tilmelding – max 25 deltagere. 
+Husk tilmelding på post@historisk-samfund-aarhus.dk. 
+Max. 25 deltagere, og turen er kun for medlemmer af Historisk Samfund for Århus Stift. 
