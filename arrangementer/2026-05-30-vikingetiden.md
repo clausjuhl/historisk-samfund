@@ -6,9 +6,10 @@ layout: arrangement
 
 Foreningens medlemmer inviteres til en frisk gåtur i vikingetidens Århus. Vi vil gå langs vikingernes forsvundne palisader og mærke byens vokseværk, mens vi taler om nogle af de begivenheder, der formede Århus for 1000 år siden.
 
-Gåturen tager 1½-2 timer, alt efter gruppens gangtempo og spørgsmål undervejs. Husk praktisk tøj ift. vejrliget og 30 kr. til en billet til Vikingemuseet på Bispetorvet.
+Gåturen tager 1½-2 timer, alt efter gruppens gangtempo og spørgsmål undervejs. Husk praktisk tøj ift. vejrliget.
 
 Mogens Frost Tvorup Larsen, cand.mag. i historie, fortæller. Mogens har bl.a. arbejdet med formidling på Moesgaard Museum, og har som forskningsassistent for professor i arkæologi Søren Sindbæk arbejdet dybdegående med bl.a. vikingeborgen Trelleborg samt kortlægning af tidlige middelalderbyer.
 
 Husk tilmelding på post@historisk-samfund-aarhus.dk. 
-Max. 25 deltagere, og turen er kun for medlemmer af Historisk Samfund for Århus Stift. 
+Max. 25 deltagere, og turen er kun for medlemmer af Historisk Samfund for Århus Stift.
+Der er en egenbetaling på 60 kr. pr. person til arrangementet, som bl.a. dækker entre til Vikingemuseet. 
