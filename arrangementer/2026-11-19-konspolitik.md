@@ -9,3 +9,5 @@ Mens byens bedst kendte kvindeband Shit & Chanel holdt politikken ude i strakt a
 På baggrund af et forskningsprojekt om musikliv og følelsespraksisser i 1970’ernes Århus fortæller Bertel Nygaard, historiker og professor på Aarhus Universitet, om dette næsten glemte forsøg på at forandre verden gennem musikken.
 
 Bestyrelsen opfordrer så mange medlemmer som muligt til at komme netop denne aften, da vi har fornøjelsen af personligt at udlevere årbogen for 2026.
+
+Dørene åbner kl. 18.30. Tilmelding er nødvendig på post@historisk-samfund-aarhus.dk
