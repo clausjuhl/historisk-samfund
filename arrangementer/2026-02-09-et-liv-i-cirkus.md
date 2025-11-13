@@ -7,3 +7,5 @@ Efter afholdelsen af vores sædvanligvis korte generalforsamling vil Lykke Olsen
 De og mange andre spørgsmål satte Nordjyske Museer sig for at undersøge. Lykke Olsen interviewede i 2024 en række danske nuværende og tidligere cirkusdirektører og artister om deres liv i cirkus og om branchen i al almindelighed.
 
 Arbejdet med at indsamle beretninger fra danske cirkus har givet indsigt i mange spændende livshistorier fra en usædvanlig branche, der går flere hundreder år tilbage. Historierne rummer alt fra dyb familieloyalitet, disciplin, kriser, vilde dyr i cirkus, heste i verdensklasse til overvejelser om levevilkårene for cirkus i dag og i fremtiden. Museet har interviewet velkendte navne som Benneweis, Schumann og Berdino, men også mindre kendte – men lige så vigtige – aktører som Arli og Thierry.
+
+Dørene åbner kl. 18.30. Tilmelding er nødvendig på post@historisk-samfund-aarhus.dk
