@@ -7,8 +7,8 @@
 # image_back_url: relative url to the image-file. The image-file should be 400px wide and 600px high
 
 - url: /aarboeger/2025
-  image_front_url: /assets/aarbog_2025.f.jpg
-  image_back_url: /assets/aarbog_2025.b.jpg
+  image_front_url: /assets/aarbog_2025_f.jpg
+  image_back_url: /assets/aarbog_2025_b.jpg
 
 - url: /aarboeger/2024
   image_front_url: /assets/aarbog_2024_f.jpg
