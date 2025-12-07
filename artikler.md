@@ -15,7 +15,7 @@ permalink: /artikler
                 <label for="year">Årstal
                     <select id="year" class="form-control" name="year" aria-label="Vis kun resultater fra denne årgang">>
                         <option value="" selected>Vælg evt. årgang</option>
-                        {% for i in (1908..2014) %}
+                        {% for i in (1908..2016) %}
                             <option value="{{ i }}">{{ i }}</option>
                         {% endfor %}
                     </select>
