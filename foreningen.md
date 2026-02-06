@@ -38,9 +38,6 @@ Telefon: 2087 7683<br>
 Mail: mc@roedkilde-gym.dk
 
 #### Bestyrelsesmedlemmer
-*Berit Guldmann Hornstrup*<br>
-Mail: bghornstrup@hotmail.com
-
 *Thomas Norskov Kristensen*<br>
 Mail: thkri@aarhus.dk
 
