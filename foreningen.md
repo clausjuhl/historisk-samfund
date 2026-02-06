@@ -41,6 +41,9 @@ Mail: mc@roedkilde-gym.dk
 *Thomas Norskov Kristensen*<br>
 Mail: thkri@aarhus.dk
 
+*Merete Bøge Pedersen*<br>
+Mail: elmep@aarhus.dk
+
 *Martin Philipsen Mølgaard*<br>
 Mail: mpm@museumskanderborg.dk
 
