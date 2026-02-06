@@ -69,10 +69,10 @@ Formålet søges nået ved at udgive en årbog med lokalhistorisk indhold, at la
 Optagelse i samfundet sker ved henvendelse til et bestyrelsesmedlem eller på et af bestyrelsen anvist sted. Kontingentet fastsættes af generalforsamlingen. For kontingentet får medlemmerne årbogen og i almindelighed gratis adgang til samfundets møder samt mulighed for at købe en række bøger og tidsskrifter til nedsat pris. Udmeldelse må ske inden 1. oktober.
 
 **§ 4**
-Bestyrelsen består af 7 medlemmer, der vælges på generalforsamlingen (hvert andet år 4 og hvert andet år 3), der desuden vælger 1-2 suppleanter (efter bestyrelsens bestemmelse) og 1 revisor. Bestyrelsen konstituerer sig selv. Bestyrelsen administrerer samfundets midler og forestår dets daglige ledelse.
+Bestyrelsen består af 7 medlemmer, der vælges på generalforsamlingen (hvert andet år 4 og hvert andet år 3), der desuden vælger 1-2 suppleanter (efter bestyrelsens bestemmelse) og 1 revisor. Bestyrelsen konstituerer sig selv og vælger en forperson, en næstforperson og en kasserer. Forperson og næstforperson er officielle benævnelser - der kan tillige frit anvendes forkvinde/næstforkvinde eller formand/næstformand. Bestyrelsen administrerer samfundets midler og forestår dets daglige ledelse.
 
 **§ 5**
-Foreningen tegnes af kassereren eller formanden eller næstformanden.
+Foreningen tegnes af kassereren eller forpersonen eller næstforpersonen.
 
 **§ 6**
 Ordinær generalforsamling afholdes hvert år inden udgangen af marts måned. Generalforsamling varsles skriftligt med angivelse af dagsorden til hvert medlem senest 14 dage før. På generalforsamlingen aflægges beretning om virksomheden, fremlægges revideret regnskab, vælges bestyrelsesmedlemmer, suppleant/suppleanter og revisor. Forslag, der ønskes behandlet på generalforsamlingen, indgives til bestyrelsen mindst 7 dage forinden. Sager på generalforsamlingen afgøres ved simpel stemmeflerhed, dog kræver vedtægtsændringer 2/3 af de afgivne stemmer.
