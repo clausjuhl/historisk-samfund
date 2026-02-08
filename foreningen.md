@@ -85,4 +85,4 @@ Opløsning af Historisk Samfund kan ske ved skriftlig afstemning, men kun med 2/
 **§ 8**
 I tilfælde af Historisk Samfunds opløsning tilfalder dets midler ”Øm Kloster Museum”
 
-Vedtaget på generalforsamlingen 27. marts 2012.
+Vedtaget på generalforsamlingen 5. februar 2026.
