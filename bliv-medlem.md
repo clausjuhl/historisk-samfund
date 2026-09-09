@@ -17,6 +17,7 @@ For kontingentet får du mulighed for at deltage i en række spændende foredrag
     <label for="name"><input type="text" name="name" placeholder="Navn" required></label>
     <label for="email"><input type="email" name="email" placeholder="Email" required></label>
     <label for="address"><input name="address" placeholder="Adresse" required></label>
+    <label for="phone"><input type="text" name="phone" placeholder="Telefonnummer" required></label>
     <label for="message"><textarea name="message" placeholder="Eventuelle kommentarer..."></textarea></label>
     <div class="h-captcha" data-captcha="true"></div>
     <button type="submit" aria-label="Send beskeden">Send</button>
