@@ -1,7 +1,6 @@
 ---
 layout: arrangement
 ---
-
 En podcastoptagelse med Aarhusmusikere
 
 Aarhus har en rig og farverig rytmisk musikhistorie, der er fuld af gode fortællinger, markante personligheder og musikalske oplevelser. 
