@@ -1,7 +1,6 @@
 ---
 layout: arrangement
 ---
-
 Ved Anne-Marie Stenskrog og Freja Hjorslev - historiestuderende
 
 En berygtet rockergruppe, en familie som boede på øverste etage af en politistation, og en politibetjent som i sin fritid begik røverier. 
