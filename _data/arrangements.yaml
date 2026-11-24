@@ -21,74 +21,54 @@
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
   date: Torsdag den 4. februar 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
 
-- page_url: /arrangementer/2026-02-09-et-liv-i-cirkus
-  image_url: /assets/Cirkusforedrag_arrangementsside.jpg
-  image_alt: Foredrag om et liv i cirkus
-  title: Et liv i cirkus + generalforsamling
-  presenter: Ved Lykke Olsen - museumsinspektør ved Nordjyske Museer
+  - page_url: /arrangementer/2027-03-16-Aarhus-Teater-foran-og-bag-kulisserne-i-126-aar
+  image_url: 
+  image_alt: Foredrag om Aarhus Teater foran og bag kulisserne i 126 aar
+  title: Aarhus Teater - Foran og bag kulisserne i 126 år
+  presenter: Ved Marianne Philipsen - arkivar ved Aarhus Teater
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Torsdag den 5. februar 2026
+  date: Tirsdag den 16. marts 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
 
-- page_url: /arrangementer/2026-04-08-tusind-aars-vestergade
-  image_url: /assets/tusind_aars_vestergade_arrangementsside.jpg
-  image_alt: Foredrag om tusind aars vestergade
-  title: Tusind års Vestergade
-  presenter: Ved Søren Hein Rasmussen - historiker, forfatter, foredragsholder
+   - page_url: /arrangementer/2027-04-13-Arkitekternes-Aarhus-live-podcast
+  image_url: 
+  image_alt: Foredrag om Arkitekternes Aarhus live podcast
+  title: Arkitekternes Aarhus - Live podcast
+  presenter: Ved Aarhusarkitekter - en podcastoptagelse
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Onsdag den 8. april 2026
+  date: Tirsdag den 16. marts 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
 
-- page_url: /arrangementer/2026-04-21-adelsmand
-  image_url: /assets/adelsmand_arrangementsside.jpg
-  image_alt: Foredrag om excentriske danske adelsmænd
-  title: Excentriske danske adelsmænd
-  presenter: Ved Klaus Højbjerg - forskningsmedarbejder, Dansk Center for Herregårdsforskning
+   - page_url: /arrangementer/2027-09-09-Kanonkvinder-befaestningssagen-drevet-af-kvinder
+  image_url: 
+  image_alt: Kanonkvinder befaestningssagen drevet af kvinder
+  title: Kanonkvinder - befæstningssagen drevet af kvinder
+  presenter: Ved Anette Roelsgaard
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Tirsdag den 21. april 2026
+  date: Torsdag den 9. september 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
 
-- page_url: /arrangementer/2026-05-30-vikingetiden
-  image_url: /assets/Vikingebyen_arrangementsside.jpg
-  image_alt: vikingernes aarhus
-  title: Vikingernes Århus
-  presenter: Ved Mogens Frost Tvorup Larsen - Cand.mag.
-  location: Indgangen til Vor Frue Kirke, Frue Kirkeplads 3, Århus
-  date: Lørdag den 30. maj 2026
-  time: Kl. 13.00
-  price: Gratis for medlemmer. Dog er der en egenbetaling på 60 kr. pr. pers. til bl.a. entré til Vikingemuseet
-
-- page_url: /arrangementer/2026-09-24-supplikker
-  image_url: /assets/supplik_arrangementsside.jpg
-  image_alt: Supplikker
-  title: Med kongens tilladelse! Østjyders bønner til magthaverne
-  presenter: Ved Nina Koefoed - historiker og professor, Aarhus Universitet
+     - page_url: /arrangementer/2027-10-12-den-gamle-politistation-om-opbygningen-af-et-politimuseum
+  image_url: 
+  image_alt: Den gamle politistation om opbygningen af et politimuseum
+  title: Den gamle politistation - om opbygningen af et politimuseum
+  presenter: Ved Anne-Marie Stenskrog og Freja Hjorslev
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Torsdag den 24. september 2026
+  date: Tirsdag den 12. oktober 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
 
-- page_url: /arrangementer/2026-10-21-biskoppen-kongen-tyven
-  image_url: /assets/Biskoppen_kongen_arrangementsside.jpg
-  image_alt: Foredrag om biskoppen kongen og tyven. Paa besoeg paa Silkeborg Slot
-  title: Biskoppen, kongen og tyven - på besøg på Silkeborg Slot
-  presenter: Ved Jakob Ørnbjerg - historiker, ph.d., Museum Silkeborg
+     - page_url: /arrangementer/2027-11-23-Lydspor-aarhus-en-musikalsk-historiesalon
+  image_url: 
+  image_alt: Lydspor Aarhus en musikalsk historiesalon
+  title: Lydspor Aarhus - en musikalsk historiesalon
+  presenter: Aarhusmusikere - Live podcast
   location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Onsdag den 21. oktober 2026
+  date: Tirsdag den 23. november 2027
   time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
-
-- page_url: /arrangementer/2026-11-19-konspolitik
-  image_url: /assets/Konspolitik_arrangementsside.jpg
-  image_alt: Foredrag om konspolitik og elektrisk musik i 1970ernes Aarhus
-  title: Kønspolitik og elektrisk musik i 1970’ernes Århus + udlevering af årbog
-  presenter: Ved Bertel Nygaard - historiker og professor, Aarhus Universitet
-  location: Foredraget foregår på Dokk1, niv. 2.2, Aarhus Stadsarkiv
-  date: Torsdag den 19. november 2026
-  time: Kl. 19.00
-  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer 
+  price: Gratis for medlemmer. 100 kr. for ikke-medlemmer
