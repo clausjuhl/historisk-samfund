@@ -1,7 +1,6 @@
 ---
 layout: arrangement
 ---
-
 Ved Anette Roelsgaard.
 
 Foredraget ´Kanonkvinder` handler om en mindre kendt del af historien, nemlig om mange kvinders meget aktive engagement i forsvarssagen i perioden 1880-1920. 
